@@ -5,7 +5,7 @@
     { "id": 3, "titulo": "Entendendo o ES7/ES8", "url": "https://www.codeprestige.com.br/cursos/es7-8" },
     { "id": 4, "titulo": "React 16 Definitivo", "url": "https://www.udemy.com/react-16/" }
   ],
-  "alunos": [
+  "personagens": [
     { "id": 1, "nome": "Scooby-Doo", "espécie": "Great Dane (grande dinamarquês)", "personalidade": "Medroso, porém corajoso; comilão; leal aos amigos; propenso a acidentes e trapalhadas.", "ocupação": "Detetive amador e membro da Mystery Inc.", "habilidades": "Bom senso de olfato; habilidades básicas de detetive; rapidez em fugir de monstros.", "amigos": "Salsicha, Velma, Daphne, Fred", "veículo": "Mistério Móvel", "frases famosas": "Scooby-Dooby-Doo, C-C-C-Corree!" },
     { "id": 2, "nome": "José Luiz Felipe", "curso": 2 },
     { "id": 3, "nome": "Paulo Rogério", "curso": 3 },
